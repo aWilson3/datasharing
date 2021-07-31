@@ -1,3 +1,6 @@
+## The below instructions were provided by instructors of the Data Science specialization on Coursera.org
+***
+
 How to share data with a statistician
 ===========
 
